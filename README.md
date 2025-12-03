@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/wave.gif" alt="wave" width="80"/>
+</p>
 
-<!--
-**MLama2059/MLama2059** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Manish</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Enthusiastic and motivated <strong>.NET Developer</strong> from Kathmandu, Nepal.<br>
+Focused on building functional, user-friendly web applications while continuously learning.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Technical Skills
+
+### Programming Languages
+C | C# | PHP
+
+### Frameworks & Technologies
+ASP.NET Core MVC | Blazor (Server & WebAssembly) | ASP.NET Core Web API | Laravel
+
+### Frontend
+HTML | CSS | Bootstrap | JavaScript
+
+### Database Management
+MS SQL Server | Entity Framework Core | MySQL
+
+### Tools & Version Control
+Visual Studio | VS Code | Git | GitHub
+
+---
+
+<p align="center">
+<i>“Strive for continuous improvement, instead of perfection.”</i>
+</p>
