@@ -16,14 +16,14 @@ Focused on building functional, user-friendly web applications while continuousl
 ### Programming Languages
 C | C# | PHP
 
-### Frameworks & Technologies
-ASP.NET Core MVC | Blazor (Server & WebAssembly) | ASP.NET Core Web API | Laravel
+### Backend
+ASP.NET Core | ASP.NET Core Web API | Laravel
 
 ### Frontend
-HTML | CSS | Bootstrap | JavaScript
+HTML | CSS | Bootstrap | Blazor
 
 ### Database Management
-MS SQL Server | Entity Framework Core | MySQL
+Entity Framework Core | MS SQL Server | MySQL
 
 ### Tools & Version Control
 Visual Studio | VS Code | Git | GitHub
