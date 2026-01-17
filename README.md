@@ -13,20 +13,17 @@ Focused on building functional, user-friendly web applications while continuousl
 
 ## 💻 Technical Skills
 
-### Programming Languages
-C | C# | PHP
+### Languages
+C# | JavaScript | HTML | CSS | PHP | C 
 
-### Backend
-ASP.NET Core | ASP.NET Core Web API | Laravel
+### Frameworks
+ASP.NET Core (Web API, Blazor) | Entity Framework Core | LINQ | Bootstrap | Laravel 
 
-### Frontend
-HTML | CSS | Bootstrap | Blazor
-
-### Database Management
-Entity Framework Core | MS SQL Server | MySQL
+### Databases
+SQL Server | MySQL
 
 ### Tools & Version Control
-Visual Studio | VS Code | Git | GitHub
+Visual Studio | VS Code | Git | GitHub | Scalar
 
 ---
 
