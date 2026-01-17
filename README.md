@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Manish</h1>
 
 <p align="center">
-Enthusiastic and motivated <strong>.NET Developer</strong> from Kathmandu, Nepal.<br>
+Aspiring <strong>.NET Developer</strong> from Kathmandu, Nepal.<br>
 Focused on building functional, user-friendly web applications while continuously learning.
 </p>
 
